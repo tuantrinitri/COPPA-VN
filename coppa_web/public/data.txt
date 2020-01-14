@@ -1,0 +1,1 @@
+{"captain_id":79,"trip":{"from_date":"2020-01-07","to_date":"2020-01-07","description":"<Empty>"},"fish_id":-1,"long":"575.0","weight":"6999.0","lat":"12.2823428","lng":"109.1996744","catched_at":"2020\/01\/07 23:32:00"}
